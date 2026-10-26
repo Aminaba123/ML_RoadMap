@@ -125,6 +125,19 @@ https://github.com/tonarioworodo/customer-conversion-propensity-model/tree/main
 
 https://github.com/steveee27/Customer-Churn-Prediction/tree/main
 
+https://github.com/rashijain/Recruit-Restaurant-Visitor-Forecasting/tree/master
+
+##############
+
+MLops
+
+##############
+
+
+https://github.com/PacktPublishing/EngineeringMLOps/tree/master
+
+https://www.udemy.com/course/mlops-zero-to-hero/?couponCode=PMNVD2025
+
 ##########################################
 
 Books 
