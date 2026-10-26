@@ -117,6 +117,7 @@ Projects
 
 ##############
 
+
 https://github.com/kwro/CustomerPropensity/tree/main
 
 https://github.com/Vaibhav-153/Bearing-Lifetime-Prediction
@@ -133,10 +134,21 @@ MLops
 
 ##############
 
-
 https://github.com/PacktPublishing/EngineeringMLOps/tree/master
 
 https://www.udemy.com/course/mlops-zero-to-hero/?couponCode=PMNVD2025
+
+##################
+
+Dcker
+
+##################
+
+
+https://amirpourmand.ir/posts/2024/docker-commands-i-use/
+
+
+
 
 ##########################################
 
