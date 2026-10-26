@@ -2,6 +2,10 @@
 
 https://stanford.edu/~shervine/teaching/cs-221/
 
+## ML from scratch 
+
+https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch
+
 ## Machine Learning with PyTorch and Scikit-Learn Book
 
 https://github.com/rasbt/machine-learning-book
