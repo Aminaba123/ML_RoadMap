@@ -1,5 +1,38 @@
 # ML_RoadMap
 
+https://stanford.edu/~shervine/teaching/cs-221/
+
+## Machine Learning with PyTorch and Scikit-Learn Book
+
+https://github.com/rasbt/machine-learning-book
+
+## A 100 Days of ML algorithms
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master
+
+## Bereklt (2019) Very Good 
+
+https://c.d2l.ai/berkeley-stat-157/syllabus.html
+
+CMU 
+
+https://www.cs.cmu.edu/~mgormley/courses/10601/coursework.html
+
+Berekly ( 2025)
+
+https://people.eecs.berkeley.edu/~jrs/189/
+
+CS-5780 — Intro to Machine Learning
+
+https://github.com/gabrielesavethekiwi/CS-5780---Intro-to-Machine-Learning-/tree/main
+
+https://www.cs.cornell.edu/courses/cs4780/2024sp/
+
+### Alez Smola 
+
+https://alex.smola.org/teaching/10-701-2015/neural.html
+
+https://alex.smola.org/teaching.html
 
 ### Sebastian Raschka ( so good for LLM/Deep Learning & ML)
 
@@ -58,6 +91,16 @@ Introducation to deep learning ( goodflow)
 
 https://youtu.be/vi7lACKOUao?si=j2lQe30DCEkpZ6cZ
 
+#### Solutions to Bishop & Pattern recognition book 
+
+https://github.com/tommyod/lml/tree/master
+
+
+###############
+Projects 
+##############
+
+https://github.com/Vaibhav-153/Bearing-Lifetime-Prediction
 
 
 ##########################################
