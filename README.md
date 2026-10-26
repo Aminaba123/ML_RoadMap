@@ -117,6 +117,8 @@ Projects
 
 ##############
 
+https://github.com/kwro/CustomerPropensity/tree/main
+
 https://github.com/Vaibhav-153/Bearing-Lifetime-Prediction
 
 https://github.com/tonarioworodo/customer-conversion-propensity-model/tree/main
