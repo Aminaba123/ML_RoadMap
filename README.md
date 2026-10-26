@@ -13,12 +13,17 @@ Stanford CS229 Machine Learning | Spring 2026
 
 https://www.youtube.com/watch?v=DATnpGoGhM8&list=PLaqpC4kq8Gpw
 
-Links to courses 
+### Links to courses ( deep learning and machin elarning with good assignmnets ) 
+
+https://c.d2l.ai/berkeley-stat-157/syllabus.html
 
 Statistical Learning by python 
 
 https://www.youtube.com/watch?v=Zcb-1JmmO_U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&index=12
 
+Deep learning Berkely ( by Python)
+
+https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=1
 
 Deep Learning Foundations ( soheil Feizi)
 
