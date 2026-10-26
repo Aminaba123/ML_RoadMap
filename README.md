@@ -1,29 +1,48 @@
 # ML_RoadMap
 
+
+### Sebastian Raschka ( so good for LLM/Deep Learning & ML)
+
+https://www.youtube.com/@SebastianRaschka/playlists
+
+Stanford CS229: Machine Learning - Andrew Ng
+
+https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+Stanford CS229 Machine Learning | Spring 2026
+
+https://www.youtube.com/watch?v=DATnpGoGhM8&list=PLaqpC4kq8Gpw
+
 Links to courses 
 
 Statistical Learning by python 
+
 https://www.youtube.com/watch?v=Zcb-1JmmO_U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&index=12
 
 
 Deep Learning Foundations ( soheil Feizi)
+
 https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
 
 
-
 CMU Python for Deep learning:
+
 https://www.youtube.com/watch?v=gVmKmgTSoO4&list=PLp-0K3kfddPwYiPKQqMWgYjpFmkW2ifr7
 
 Solution to Statitsiac learning 
+
 https://www.youtube.com/watch?v=RjItg-PajpQ&list=PL4OalocKlC1Qt9l6JxBHgRSRbb3ENKFr9
 
 Statistical Learning and Application 
+
 https://www.youtube.com/watch?v=AsogCoscZgE&list=PL_Ig1a5kxu55ivmyrfRmeUOFeaaWuqPpg
 
 Intro to Machine Learning ( waterloo) 2019
+
 https://www.youtube.com/watch?v=GouhgbE5gPk&list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
 
 Deep learning for natural language processing ( oxford)
+
 https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm&index=1
 
 Introduction to Convolutional Neural Networks for Visual Recognition
@@ -32,11 +51,16 @@ https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-R
 
 Introducation to deep learning ( goodflow)
 
+https://youtu.be/vi7lACKOUao?si=j2lQe30DCEkpZ6cZ
+
+
+
 ##########################################
 Books 
 ##########################################
 
-https://www.amazon.com/dp/1098166302/ref=mes-dp?_encoding=UTF8&pd_rd_w=jSjeN&content-id=amzn1.sym.554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_p=554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_r=AZ2GJBC5MSVSGTMBCGGA&pd_rd_wg=zqFOT&pd_rd_r=1b4c7977-ff44-42eb-9e76-596eee19b614
+https://www.amazon.com/dp/1098166302/ref=mes-dp?_encoding=UTF8&pd_rd_w=jSjeN&content-id=amzn1.sym.554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_p=554d6923-441d-464e-b555-
+abe1a6d1f059&pf_rd_r=AZ2GJBC5MSVSGTMBCGGA&pd_rd_wg=zqFOT&pd_rd_r=1b4c7977-ff44-42eb-9e76-596eee19b614
 
 https://www.amazon.com/dp/0262046822/ref=mes-dp?_encoding=UTF8&pd_rd_w=jSjeN&content-id=amzn1.sym.554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_p=554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_r=AZ2GJBC5MSVSGTMBCGGA&pd_rd_wg=zqFOT&pd_rd_r=1b4c7977-ff44-42eb-9e76-596eee19b614
 
