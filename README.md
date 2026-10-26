@@ -99,6 +99,14 @@ https://youtu.be/vi7lACKOUao?si=j2lQe30DCEkpZ6cZ
 
 https://github.com/tommyod/lml/tree/master
 
+#####################
+Deep learning 
+#####################
+
+Carnegi Mellon (CMU)
+
+https://www.youtube.com/watch?v=dHFl0pUVDUY&list=PLp-0K3kfddPwarejN0RmVerKwkwgyvh3r&index=5
+
 
 ###############
 Projects 
