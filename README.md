@@ -101,7 +101,9 @@ https://github.com/tommyod/lml/tree/master
 
 
 #####################
+
 Deep learning 
+
 #####################
 
 Carnegi Mellon (CMU)
@@ -110,14 +112,18 @@ https://www.youtube.com/watch?v=dHFl0pUVDUY&list=PLp-0K3kfddPwarejN0RmVerKwkwgyv
 
 
 ###############
+
 Projects 
+
 ##############
 
 https://github.com/Vaibhav-153/Bearing-Lifetime-Prediction
 
 
 ##########################################
+
 Books 
+
 ##########################################
 
 https://www.amazon.com/dp/1098166302/ref=mes-dp?_encoding=UTF8&pd_rd_w=jSjeN&content-id=amzn1.sym.554d6923-441d-464e-b555-abe1a6d1f059&pf_rd_p=554d6923-441d-464e-b555-
