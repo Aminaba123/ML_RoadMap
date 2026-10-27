@@ -1,5 +1,11 @@
 # ML_RoadMap
 
+## AI Engineer
+
+https://aiengineeringfromscratch.com/lesson?path=phases/01-math-foundations/01-linear-algebra-intuition
+
+## Stanford 
+
 https://stanford.edu/~shervine/teaching/cs-221/
 
 ## ML from scratch 
