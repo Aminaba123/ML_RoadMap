@@ -10,6 +10,10 @@ https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch
 
 https://github.com/rasbt/machine-learning-book
 
+## ML and DL (Sharif)
+
+https://github.com/pourmand1376/ML-projects
+
 ## A 100 Days of ML algorithms
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master
